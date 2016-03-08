@@ -1,7 +1,7 @@
 ---
 layout: default
 title: FCF (Fearless Criminal Force, Formater's Cracking Force)
-permalink: /history/groups/FCF (Fearless Criminal Force, Formater's Cracking Force)/
+permalink: /history/groups/FCF_Fearless_Criminal_Force_Formater_Cracking_Force/
 tags:
 - cyber
 ---

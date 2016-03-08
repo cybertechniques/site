@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Demoralized Youth
-permalink: /history/groups/Demoralized Youth/
+permalink: /history/groups/Demoralized_Youth/
 tags:
 - cyber
 ---

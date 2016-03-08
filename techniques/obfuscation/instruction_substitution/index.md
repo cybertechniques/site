@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Instruction Substitution
-permalink: /techniques/obfuscation/instruction substitution/
+permalink: /techniques/obfuscation/instruction_substitution/
 tags:
 - instruction substitution
 - obfuscation

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Trinity
-permalink: /history/groups/The Trinity/
+permalink: /history/groups/The_Trinity/
 tags:
 - cyber
 ---

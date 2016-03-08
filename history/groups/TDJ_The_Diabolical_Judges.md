@@ -1,7 +1,7 @@
 ---
 layout: default
 title: TDJ (The Diabolical Judges)
-permalink: /history/groups/TDJ (The Diabolical Judges)/
+permalink: /history/groups/TDJ_The_Diabolical_Judges/
 tags:
 - cyber
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: AVCR (Amateur Virus Creation & Research Group)
-permalink: /history/groups/AVCR (Amateur Virus Creation & Research Group)/
+permalink: /history/groups/AVCR_Amateur_Virus_Creation_and_Research_Group)/
 tags:
 - cyber
 ---

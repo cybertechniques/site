@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Misdirected Youth
-permalink: /history/groups/Misdirected Youth/
+permalink: /history/groups/Misdirected_Youth/
 tags:
 - cyber
 ---

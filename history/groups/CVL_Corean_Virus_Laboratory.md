@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CVL (Corean Virus Laboratory)
-permalink: /history/groups/CVL (Corean Virus Laboratory)/
+permalink: /history/groups/CVL_Corean_Virus_Laboratory/
 tags:
 - cyber
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Silicium Revolte
-permalink: /history/groups/Silicium Revolte/
+permalink: /history/groups/Silicium_Revolte/
 tags:
 - cyber
 ---

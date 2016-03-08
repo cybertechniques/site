@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Immortal Riot
-permalink: /history/groups/Immortal Riot/
+permalink: /history/groups/Immortal_Riot/
 tags:
 - cyber
 ---

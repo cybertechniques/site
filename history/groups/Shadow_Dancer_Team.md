@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Shadow Dancer Team
-permalink: /history/groups/Shadow Dancer Team/
+permalink: /history/groups/Shadow_Dancer_Team/
 tags:
 - cyber
 ---

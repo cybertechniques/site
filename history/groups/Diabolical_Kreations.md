@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Diabolical Kreations
-permalink: /history/groups/Diabolical Kreations/
+permalink: /history/groups/Diabolical_Kreations/
 tags:
 - cyber
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CVC (Corean Virus Club, old)
-permalink: /history/groups/CVC (Corean Virus Club, old)/
+permalink: /history/groups/CVC_Corean_Virus_Club_old/
 tags:
 - cyber
 ---

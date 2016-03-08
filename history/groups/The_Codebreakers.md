@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Codebreakers
-permalink: /history/groups/The Codebreakers/
+permalink: /history/groups/The_Codebreakers/
 tags:
 - cyber
 ---

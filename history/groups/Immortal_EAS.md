@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Immortal EAS
-permalink: /history/groups/Immortal EAS/
+permalink: /history/groups/Immortal_EAS/
 tags:
 - cyber
 ---

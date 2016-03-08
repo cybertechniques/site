@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SVS (Seoul Virus Society)
-permalink: /history/groups/SVS (Seoul Virus Society)/
+permalink: /history/groups/SVS_Seoul_Virus_Society/
 tags:
 - cyber
 ---

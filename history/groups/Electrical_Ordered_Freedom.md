@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Electrical Ordered Freedom
-permalink: /history/groups/Electrical Ordered Freedom/
+permalink: /history/groups/Electrical_Ordered_Freedom/
 tags:
 - cyber
 ---

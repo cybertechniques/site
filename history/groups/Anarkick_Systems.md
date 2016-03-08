@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Anarkick Systems
-permalink: /history/groups/Anarkick Systems/
+permalink: /history/groups/Anarkick_Systems/
 tags:
 - cyber
 ---

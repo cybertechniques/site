@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ShadowVX Group
-permalink: /history/groups/ShadowVX Group/
+permalink: /history/groups/ShadowVX_Group/
 tags:
 - cyber
 ---

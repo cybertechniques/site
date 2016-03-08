@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hackerz Networx
-permalink: /history/groups/Hackerz Networx/
+permalink: /history/groups/Hackerz_Networx/
 tags:
 - cyber
 ---

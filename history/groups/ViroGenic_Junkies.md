@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ViroGenic Junkies
-permalink: /history/groups/ViroGenic Junkies/
+permalink: /history/groups/ViroGenic_Junkies/
 tags:
 - cyber
 ---

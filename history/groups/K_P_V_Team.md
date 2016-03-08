@@ -1,7 +1,7 @@
 ---
 layout: default
 title: K.P.V. Team
-permalink: /history/groups/K.P.V. Team/
+permalink: /history/groups/K_P_V_Team/
 tags:
 - cyber
 ---

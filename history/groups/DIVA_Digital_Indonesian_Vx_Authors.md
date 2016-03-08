@@ -1,7 +1,7 @@
 ---
 layout: default
 title: DIVA (Digital Indonesian Vx Authors)
-permalink: /history/groups/DIVA (Digital Indonesian Vx Authors)/
+permalink: /history/groups/DIVA_Digital_Indonesian_Vx_Authors/
 tags:
 - cyber
 ---

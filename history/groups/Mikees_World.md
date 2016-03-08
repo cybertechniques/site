@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mikee's World
-permalink: /history/groups/Mikee's World/
+permalink: /history/groups/Mikees_World/
 tags:
 - cyber
 ---

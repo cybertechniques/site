@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Italian Virus Research Laboratory
-permalink: /history/groups/Italian Virus Research Laboratory/
+permalink: /history/groups/Italian_Virus_Research_Laboratory/
 tags:
 - cyber
 ---

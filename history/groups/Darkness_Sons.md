@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Darkness Sons
-permalink: /history/groups/Darkness Sons/
+permalink: /history/groups/Darkness_Sons/
 tags:
 - cyber
 ---

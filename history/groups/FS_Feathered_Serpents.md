@@ -1,7 +1,7 @@
 ---
 layout: default
 title: FS (Feathered Serpents)
-permalink: /history/groups/FS (Feathered Serpents)/
+permalink: /history/groups/FS_Feathered_Serpents/
 tags:
 - cyber
 ---

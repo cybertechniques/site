@@ -1,7 +1,7 @@
 ---
 layout: default
 title: LT/RSA (Living Turmoil / Ruthless Stealth Angels)
-permalink: /history/groups/LT/RSA (Living Turmoil / Ruthless Stealth Angels)/
+permalink: /history/groups/LT_RSA_Living_Turmoil_Ruthless_Stealth_Angels/
 tags:
 - cyber
 ---

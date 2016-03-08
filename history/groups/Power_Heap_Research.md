@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Power Heap Research
-permalink: /history/groups/Power Heap Research/
+permalink: /history/groups/Power_Heap_Research/
 tags:
 - cyber
 ---

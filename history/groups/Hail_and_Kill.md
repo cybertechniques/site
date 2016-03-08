@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hail and Kill
-permalink: /history/groups/Hail and Kill/
+permalink: /history/groups/Hail_and_Kill/
 tags:
 - cyber
 ---

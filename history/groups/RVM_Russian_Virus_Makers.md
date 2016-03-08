@@ -1,7 +1,7 @@
 ---
 layout: default
 title: RVM (Russian Virus Makers)
-permalink: /history/groups/RVM (Russian Virus Makers)/
+permalink: /history/groups/RVM_Russian_Virus_Makers/
 tags:
 - cyber
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Metaphase VX Team
-permalink: /history/groups/Metaphase VX Team/
+permalink: /history/groups/Metaphase_VX_Team/
 tags:
 - cyber
 ---

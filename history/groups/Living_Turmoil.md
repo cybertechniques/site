@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Living Turmoil
-permalink: /history/groups/Living Turmoil/
+permalink: /history/groups/Living_Turmoil/
 tags:
 - cyber
 ---

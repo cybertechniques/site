@@ -1,7 +1,7 @@
 ---
 layout: default
 title: JVS (Janus Virus Syndicate)
-permalink: /history/groups/JVS (Janus Virus Syndicate)/
+permalink: /history/groups/JVS_Janus_Virus_Syndicate/
 tags:
 - cyber
 ---

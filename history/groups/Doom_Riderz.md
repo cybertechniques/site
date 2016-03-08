@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Doom Riderz
-permalink: /history/groups/Doom Riderz/
+permalink: /history/groups/Doom_Riderz/
 tags:
 - cyber
 ---

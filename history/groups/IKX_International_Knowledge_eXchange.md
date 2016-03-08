@@ -1,7 +1,7 @@
 ---
 layout: default
 title: IKX (International Knowledge eXchange)
-permalink: /history/groups/IKX (International Knowledge eXchange)/
+permalink: /history/groups/IKX_International_Knowledge_eXchange/
 tags:
 - cyber
 ---

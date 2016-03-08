@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SVL (Slovak Virus Laboratories)
-permalink: /history/groups/SVL (Slovak Virus Laboratories)/
+permalink: /history/groups/SVL_Slovak_Virus_Laboratories/
 tags:
 - cyber
 ---

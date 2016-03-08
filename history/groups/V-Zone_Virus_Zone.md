@@ -1,7 +1,7 @@
 ---
 layout: default
 title: V-Zone (Virus Zone)
-permalink: /history/groups/V-Zone (Virus Zone)/
+permalink: /history/groups/V-Zone_Virus_Zone/
 tags:
 - cyber
 ---

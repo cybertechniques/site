@@ -1,7 +1,7 @@
 ---
 layout: default
 title: RSA (Ruthless Stealth Angels)
-permalink: /history/groups/RSA (Ruthless Stealth Angels)/
+permalink: /history/groups/RSA_Ruthless_Stealth_Angels/
 tags:
 - cyber
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Subroutine Ordering
-permalink: /techniques/obfuscation/subroutine ordering/
+permalink: /techniques/obfuscation/subroutine_ordering/
 tags:
 - subroutine ordering
 - obfuscation

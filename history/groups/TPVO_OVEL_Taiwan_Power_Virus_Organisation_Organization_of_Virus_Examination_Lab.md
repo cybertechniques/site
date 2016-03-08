@@ -1,7 +1,7 @@
 ---
 layout: default
 title: TPVO/OVEL (Taiwan Power Virus Organisation/Organization of Virus Examination Lab
-permalink: /history/groups/TPVO/OVEL (Taiwan Power Virus Organisation/Organization of Virus Examination Lab/
+permalink: /history/groups/TPVO_OVEL_Taiwan_Power_Virus_Organisation_Organization_of_Virus Examination_Lab/
 tags:
 - cyber
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Viper (Viral Inclined Programming Experts Group)
-permalink: /history/groups/Viper (Viral Inclined Programming Experts Group)/
+permalink: /history/groups/Viper_Viral_Inclined_Programming_Experts_Group/
 tags:
 - cyber
 ---

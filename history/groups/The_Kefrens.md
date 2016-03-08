@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Kefrens
-permalink: /history/groups/The Kefrens/
+permalink: /history/groups/The_Kefrens/
 tags:
 - cyber
 ---

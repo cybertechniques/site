@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dead Code
-permalink: /techniques/obfuscation/dead code/
+permalink: /techniques/obfuscation/dead_code/
 tags:
 - dead code
 - obfuscation

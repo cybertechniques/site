@@ -1,7 +1,7 @@
 ---
 layout: default
 title: No Mercy
-permalink: /history/groups/No Mercy/
+permalink: /history/groups/No_Mercy/
 tags:
 - cyber
 ---

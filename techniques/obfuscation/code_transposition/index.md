@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Code Integration
-permalink: /techniques/obfuscation/code transposition/
+permalink: /techniques/obfuscation/code_transposition/
 tags:
 - code transposition
 - obfuscation

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Computa GangstaZ
-permalink: /history/groups/Computa GangstaZ/
+permalink: /history/groups/Computa_GangstaZ/
 tags:
 - cyber
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Virulent Graffiti
-permalink: /history/groups/Virulent Graffiti/
+permalink: /history/groups/Virulent_Graffiti/
 tags:
 - cyber
 ---

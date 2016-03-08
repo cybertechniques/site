@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dark Conspiracy
-permalink: /history/groups/Dark Conspiracy/
+permalink: /history/groups/Dark_Conspiracy/
 tags:
 - cyber
 ---

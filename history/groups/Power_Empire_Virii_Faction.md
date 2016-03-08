@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Power Empire Virii Faction
-permalink: /history/groups/Power Empire Virii Faction/
+permalink: /history/groups/Power_Empire_Virii_Faction/
 tags:
 - cyber
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Youths Against McAfee
-permalink: /history/groups/Youths Against McAfee/
+permalink: /history/groups/Youths_Against_McAfee/
 tags:
 - cyber
 ---

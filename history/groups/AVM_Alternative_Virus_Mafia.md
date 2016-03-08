@@ -1,7 +1,7 @@
 ---
 layout: default
 title: AVM (Alternative Virus Mafia)
-permalink: /history/groups/AVM (Alternative Virus Mafia)/
+permalink: /history/groups/AVM_Alternative_Virus_Mafia/
 tags:
 - cyber
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: WAVE (World Association of Virus Enhancement)
-permalink: /history/groups/WAVE (World Association of Virus Enhancement)/
+permalink: /history/groups/WAVE_World_Association_of_Virus_Enhancement/
 tags:
 - cyber
 ---

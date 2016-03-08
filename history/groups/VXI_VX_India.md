@@ -1,7 +1,7 @@
 ---
 layout: default
 title: VXI (VX India)
-permalink: /history/groups/VXI (VX India)/
+permalink: /history/groups/VXI_VX_India/
 tags:
 - cyber
 ---

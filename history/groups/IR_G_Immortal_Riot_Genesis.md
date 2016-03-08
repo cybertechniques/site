@@ -1,7 +1,7 @@
 ---
 layout: default
 title: IR/G (Immortal Riot/Genesis)
-permalink: /history/groups/IR/G (Immortal Riot/Genesis)/
+permalink: /history/groups/IR_G_Immortal_Riot_Genesis/
 tags:
 - cyber
 ---

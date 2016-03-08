@@ -1,7 +1,7 @@
 ---
 layout: default
 title: VBB (Virus Bits & Bytes)
-permalink: /history/groups/VBB (Virus Bits & Bytes)/
+permalink: /history/groups/VBB_Virus_Bits_Bytes/
 tags:
 - cyber
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ARCV (Association of Really Cruel Viruses)
-permalink: /history/groups/ARCV (Association of Really Cruel Viruses)/
+permalink: /history/groups/ARCV_Association_of_Really_Cruel_Viruses/
 tags:
 - cyber
 ---

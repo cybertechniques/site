@@ -13,10 +13,10 @@ tags:
 
 <br/>
 
-## Welcome to the Cyber Techniques site [cybertechniques.net](www.cybertechniques.net)
+## Welcome to the Cyber Techniques website www.cybertechniques.net
 
 Our site and content has been designed to be easily modified and updated
-  * See the [contribute section]() below for more information
+  * See the [contribute section](#contribute) below for more information
 
 I have started this site as a result of work in my masters degree program in Cyber Security.
 With only knowing a small part of the overall big picture I hope to get others to contribute information to this group.
@@ -50,7 +50,7 @@ You can take a look at the [techniques page](techniques/) for more information
 
 Cyber techniques can be used for both bad and good
 
-Before looking at some of the software related cyber techniques it may be a good idea to review or go over some of the [Assembly Language](assembly/) tutorials provided here. You can also take a look at the [assembly language quick links section]()
+Before looking at some of the software related cyber techniques it may be a good idea to review or go over some of the [Assembly Language](assembly/) tutorials provided here. You can also take a look at the [assembly language quick links](#assembly-language-quick-links)
 
 A big focus area today is: Cyber Threats
 Different cyber techniques are implemented which help to create:
@@ -70,11 +70,11 @@ Different cyber techniques are implemented which help to create:
 
 
 ## History
-[History](history/README.md)
+[History](history/)
 
 
 ## Analysis Tools
-[Link](analysis_tools/README.md)
+[Link](analysis_tools/)
 
 ## Archiver Tool
 The archiver tools is not yet available but is a web based tool that will allow a user to archive a sites page & associated content at a given url
@@ -82,10 +82,10 @@ The archiver tools is not yet available but is a web based tool that will allow 
 
 ## Contribute
   * Our site is hosted on Amazon.
-    * The site repository is located at: (site.cybertechniques.net)
+    * The site repository is located at: [Github](http://site.cybertechniques.net)
   * Our code is hosted on github
-    * The techniques code repository is located at: (code.cybertechniques.net)
-    * The threats code repository is located at: (threats.cybertechniques.net)
+    * The techniques code repository is located at: [Github](http://code.cybertechniques.net)
+    * The threats code repository is located at: [Github](http://threats.cybertechniques.net)
 
 ### Repository Layout
 In order to keep the repository checkout process simple and small in size all examples will be contained in separate sub repositories listed under the Cyber Threats group
@@ -94,7 +94,7 @@ In order to keep the repository checkout process simple and small in size all ex
     example-techniques-obfuscation-packing-upx
 
 ## Policies
-In order to prevent abuse using content from this site I have a running list below of unacceptable items that will not be permitted in any of the repositories and are listed in alphabetical order (linked content using the [Archiver Tool](#) is acceptable though):
+In order to prevent abuse using content from this site I have a running list below of unacceptable items that will not be permitted in any of the repositories and are listed in alphabetical order (linked content using the [Archiver Tool](#archiver-tool) is acceptable though):
   * binaries (except for free / opensource analysis tools)
     * must be validatable by a known good chacksum
     * once available, the binary must include a snapshot of the known good checksum using the archiver tool for historical purposes

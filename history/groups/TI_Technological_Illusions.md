@@ -1,7 +1,7 @@
 ---
 layout: default
 title: TI (Technological Illusions)
-permalink: /history/groups/TI (Technological Illusions)/
+permalink: /history/groups/TI_Technological_Illusions/
 tags:
 - cyber
 ---

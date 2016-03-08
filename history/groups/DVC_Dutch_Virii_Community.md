@@ -1,7 +1,7 @@
 ---
 layout: default
 title: DVC (Dutch Virii Community)
-permalink: /history/groups/DVC (Dutch Virii Community)/
+permalink: /history/groups/DVC_Dutch_Virii_Community/
 tags:
 - cyber
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: DVC (Death Virii Crew)
-permalink: /history/groups/DVC (Death Virii Crew)/
+permalink: /history/groups/DVC_Death_Virii_Crew/
 tags:
 - cyber
 ---

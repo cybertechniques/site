@@ -1,7 +1,7 @@
 ---
 layout: default
 title: UCSI (Ultimate Chaos Security International)
-permalink: /history/groups/UCSI (Ultimate Chaos Security International)/
+permalink: /history/groups/UCSI_Ultimate_Chaos_Security_International/
 tags:
 - cyber
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Stealthy Code
-permalink: /techniques/obfuscation/stealthy code/
+permalink: /techniques/obfuscation/stealthy_code/
 tags:
 - stealthy code
 - obfuscation

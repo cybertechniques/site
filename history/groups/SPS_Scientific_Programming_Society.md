@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SPS (Scientific Programming Society)
-permalink: /history/groups/SPS (Scientific Programming Society)/
+permalink: /history/groups/SPS_Scientific_Programming_Society/
 tags:
 - cyber
 ---

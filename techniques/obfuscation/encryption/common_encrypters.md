@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Common Encrypters
-permalink: /techniques/obfuscation/common encrypters/
+permalink: /techniques/obfuscation/common_encrypters/
 tags:
 - common encrypters
 - obfuscation

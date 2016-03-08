@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Australian Institute of Hackers
-permalink: /history/groups/Australian Institute of Hackers/
+permalink: /history/groups/Australian_Institute_of_Hackers/
 tags:
 - cyber
 ---

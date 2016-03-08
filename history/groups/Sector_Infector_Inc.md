@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sector Infector Inc.
-permalink: /history/groups/Sector Infector Inc./
+permalink: /history/groups/Sector_Infector_Inc/
 tags:
 - cyber
 ---

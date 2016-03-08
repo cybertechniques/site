@@ -1,7 +1,7 @@
 ---
 layout: default
 title: LineZer0 VX Team
-permalink: /history/groups/LineZer0 VX Team/
+permalink: /history/groups/LineZer0_VX_Team/
 tags:
 - cyber
 ---

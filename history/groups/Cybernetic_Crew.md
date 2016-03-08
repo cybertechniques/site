@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cybernetic Crew
-permalink: /history/groups/Cybernetic Crew/
+permalink: /history/groups/Cybernetic_Crew/
 tags:
 - cyber
 ---

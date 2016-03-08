@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SOS (Sign Of Scream)
-permalink: /history/groups/SOS (Sign Of Scream)/
+permalink: /history/groups/SOS_Sign_Of_Scream/
 tags:
 - cyber
 ---

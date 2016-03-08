@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Divide By Zero
-permalink: /history/groups/Divide By Zero/
+permalink: /history/groups/Divide_By_Zero/
 tags:
 - cyber
 ---

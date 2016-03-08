@@ -1,7 +1,7 @@
 ---
 layout: default
 title: DDT (Dichlore Diphenyl Trichloretane)
-permalink: /history/groups/DDT (Dichlore Diphenyl Trichloretane)/
+permalink: /history/groups/DDT_Dichlore_Diphenyl_Trichloretane/
 tags:
 - cyber
 ---

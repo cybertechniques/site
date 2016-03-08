@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Skamwerk Labs
-permalink: /history/groups/Skamwerk Labs/
+permalink: /history/groups/Skamwerk_Labs/
 tags:
 - cyber
 ---

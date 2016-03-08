@@ -1,7 +1,7 @@
 ---
 layout: default
 title: TAVC (Tula Anti & Viral Club)
-permalink: /history/groups/TAVC (Tula Anti & Viral Club)/
+permalink: /history/groups/TAVC_Tula_Anti_Viral_Club/
 tags:
 - cyber
 ---

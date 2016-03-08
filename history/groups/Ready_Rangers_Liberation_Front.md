@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ready Rangers Liberation Front
-permalink: /history/groups/Ready Rangers Liberation Front/
+permalink: /history/groups/Ready_Rangers_Liberation_Front/
 tags:
 - cyber
 ---

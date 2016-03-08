@@ -1,7 +1,7 @@
 ---
 layout: default
 title: PVW (Pinoy Virus Writers)
-permalink: /history/groups/PVW (Pinoy Virus Writers)/
+permalink: /history/groups/PVW_Pinoy_Virus_Writers/
 tags:
 - cyber
 ---

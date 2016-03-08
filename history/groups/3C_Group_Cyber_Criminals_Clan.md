@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 3C Group (Cyber Criminals Clan)
-permalink: /history/groups/3C Group (Cyber Criminals Clan)/
+permalink: /history/groups/3C_Group_Cyber_Criminals_Clan/
 tags:
 - cyber
 ---

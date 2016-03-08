@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SG (Stealth Group; former SG World Wide)
-permalink: /history/groups/SG (Stealth Group; former SG World Wide)/
+permalink: /history/groups/SG_Stealth_Group_former_SG_World_Wide/
 tags:
 - cyber
 ---

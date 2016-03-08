@@ -1,7 +1,7 @@
 ---
 layout: default
 title: VLAD (Virus Laboratory And Distribution )
-permalink: /history/groups/VLAD (Virus Laboratory And Distribution )/
+permalink: /history/groups/VLAD_Virus_Laboratory_And_Distribution/
 tags:
 - cyber
 ---

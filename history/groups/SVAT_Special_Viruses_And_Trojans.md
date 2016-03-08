@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SVAT (Special Viruses And Trojans)
-permalink: /history/groups/SVAT (Special Viruses And Trojans)/
+permalink: /history/groups/SVAT_Special_Viruses_And_Trojans/
 tags:
 - cyber
 ---

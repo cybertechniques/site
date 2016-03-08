@@ -1,7 +1,7 @@
 ---
 layout: default
 title: DAN (Digital Anarchy)
-permalink: /history/groups/DAN (Digital Anarchy)/
+permalink: /history/groups/DAN_Digital_Anarchy/
 tags:
 - cyber
 ---

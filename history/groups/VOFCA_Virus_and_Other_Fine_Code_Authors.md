@@ -1,7 +1,7 @@
 ---
 layout: default
 title: VOFCA (Virus and Other Fine Code Authors)
-permalink: /history/groups/VOFCA (Virus and Other Fine Code Authors)/
+permalink: /history/groups/VOFCA_Virus_and_Other_Fine_Code_Authors/
 tags:
 - cyber
 ---

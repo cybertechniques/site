@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ASM (Association of Satanic Maniacs)
-permalink: /history/groups/ASM (Association of Satanic Maniacs)/
+permalink: /history/groups/ASM_Association_of_Satanic_Maniacs/
 tags:
 - cyber
 ---

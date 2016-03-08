@@ -1,7 +1,7 @@
 ---
 layout: default
 title: HVM (Hungarian Virus Acade my)
-permalink: /history/groups/HVM (Hungarian Virus Acade my)/
+permalink: /history/groups/HVM_Hungarian_Virus_Acade_my/
 tags:
 - cyber
 ---

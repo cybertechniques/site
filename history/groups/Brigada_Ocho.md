@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Brigada Ocho
-permalink: /history/groups/Brigada Ocho/
+permalink: /history/groups/Brigada_Ocho/
 tags:
 - cyber
 ---

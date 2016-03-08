@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Team Necrosis
-permalink: /history/groups/Team Necrosis/
+permalink: /history/groups/Team_Necrosis/
 tags:
 - cyber
 ---

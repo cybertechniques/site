@@ -1,7 +1,7 @@
 ---
 layout: default
 title: BHA (Badsector Hacking Alliance)
-permalink: /history/groups/BHA (Badsector Hacking Alliance)/
+permalink: /history/groups/BHA_Badsector_Hacking_Alliance/
 tags:
 - cyber
 ---

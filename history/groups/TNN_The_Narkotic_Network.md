@@ -1,7 +1,7 @@
 ---
 layout: default
 title: TNN (The Narkotic Network )
-permalink: /history/groups/TNN (The Narkotic Network )/
+permalink: /history/groups/TNN_The_Narkotic_Network/
 tags:
 - cyber
 ---

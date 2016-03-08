@@ -1,7 +1,7 @@
 ---
 layout: default
 title: HTC '95
-permalink: /history/groups/HTC '95/
+permalink: /history/groups/HTC_95/
 tags:
 - cyber
 ---
