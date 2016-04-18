@@ -6,16 +6,21 @@ tags:
 - cyber
 ---
 
-## A.N.O.I. (A New Order of Intelligence)
+A.N.O.I. (A New Order of Intelligence)
+======================================
 
-### Origin
+Origin
+------
 Sweden
 
-### Description
+Description
+-----------
 Virus authoring group responsible for around 15+ viruses. Formerly known as BetaBoys and F.P.C.P. (Funky Pack of CyberPunks).
 
-### Website
+Website
+-------
 None
 
-### Reference
+Reference
+---------
 http://vxheaven.org/vx.php?id=ga02

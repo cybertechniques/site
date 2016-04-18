@@ -8,4 +8,5 @@ tags:
 - techniques
 ---
 
-# Obfuscation - Code Transposition
+Obfuscation - Code Transposition
+================================

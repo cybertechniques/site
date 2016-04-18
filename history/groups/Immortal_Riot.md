@@ -6,19 +6,25 @@ tags:
 - cyber
 ---
 
-## Immortal Riot
+Immortal Riot
+=============
 
-### Origin
+Origin
+------
 Sweden
 
-### Description
+Description
+-----------
 Virus authoring group responsible for many viruses. In the end of 1996 the group "merged" with Genesis and some solo virus writers and continued as IR/G (Immortal Riot/Genesis). Lately rumors have surfaced that after the demise of IR/G IR is starting a second life.
 
-### Magazine
+Magazine
+--------
 [Insane Reality Magazine](http://vxheaven.org/vx.php?id=zi03)
 
-### Website
+Website
+-------
 None
 
-### Reference
+Reference
+---------
 http://vxheaven.org/vx.php?id=gi02

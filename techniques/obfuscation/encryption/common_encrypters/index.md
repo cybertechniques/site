@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Common Encrypters
-permalink: /techniques/obfuscation/common_encrypters/
+permalink: /techniques/obfuscation/encryption/common_encrypters/
 tags:
 - common encrypters
 - obfuscation
@@ -9,13 +9,14 @@ tags:
 ---
 
 Crypter / Protector
---
+===================
 
-#### Common Encrypters:
+Common Encrypters:
+------------------
 
   * ARM Protector
     * HOME
-      * http://
+      * Not Available
     * DESC
       * ARM Protector is a Windows Portable Executable (PE) file protector and cryptor against reverse engineering (cracking, debugging and other illegal modifications). It has some nice protection options.
 
@@ -27,25 +28,25 @@ Crypter / Protector
 
   * PECRYPT32
     * HOME
-      * http://
+      * Not Available
 
   * PE-PROTECTOR
     * HOME
-      * http://
+      * Not Available
     * DESC
       * PE-PROTECTOR is a encrypter/protector for Windows 9x/ME to protect executable files PE against reverse engineering or cracking with a very strong protection. Features anti-debugger, anti-disassembler, anti-generic dumper, anti-VxD dumper, anti-FrogsICE, anti-Monitors, anti-API spy and many more advanced techniques.
 
   * CodeCrypt
     * HOME
-      * http://
+      * Not Available
 
   * tELOCK
     * HOME
-      * http://
+      * Not Available
 
   * PEncrypt
     * HOME
-      * http://
+      * Not Available
 
   * ELFCrypt
     * HOME
@@ -55,7 +56,7 @@ Crypter / Protector
 
   * Ding Boy's PE-Lock
     * HOME
-      * http://
+      * Not Available
     * DESC
       * A PE crypter with definable start message, restrictive runtimes, and restrictive dates.
 
@@ -68,40 +69,41 @@ Crypter / Protector
       * http://sourceforge.net/projects/yodap/files/
 
   * NFO (Based on yoda's crypter)
-    * http://
+    * HOME
+      * Not Available
 
   * PeX
     * HOME
-      * http://
+      * Not Available
 
   * PCPEC
     * HOME
-      * http://
+      * Not Available
 
   * PE-SHIELD
     * HOME
-      * http://
+      * Not Available
 
   * PELOCKnt
     * HOME
-      * http://
+      * Not Available
 
-  * PE-ENCRYPTER
+  * PE-ENCRYPTOR
     * HOME
-      * http://
+      * Not Available
 
   * VGCrypt
     * HOME
-      * http://
+      * Not Available
 
   * NoodleCrypt
     * HOME
-      * http://
+      * Not Available
 
   * LameCrypt
     * HOME
-      * http://
+      * Not Available
 
   * PE password protector
-  * HOME
-    * http://
+    * HOME
+      * Not Available

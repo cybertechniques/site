@@ -6,19 +6,25 @@ tags:
 - cyber
 ---
 
-## ASM (Association of Satanic Maniacs)
+ASM (Association of Satanic Maniacs)
+====================================
 
-### Origin
+Origin
+------
 Unknown
 
-### Description
+Description
+-----------
 Virus oriented group that emerged at the end of 1998. Outside the computer virus scene they are also active in the cracking scene.
 
-### Magaizine
+Magaizine
+---------
 [DIE Magazine](http://vxheaven.org/vx.php?id=zd03)
 
-### Website
+Website
+-------
 None
 
-### Reference
+Reference
+---------
 http://vxheaven.org/vx.php?id=ga05

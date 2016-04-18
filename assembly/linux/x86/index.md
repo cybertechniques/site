@@ -7,3 +7,6 @@ tags:
 - linux
 - 32-bit
 ---
+
+Assembly - Linux - 32 bit
+=========================

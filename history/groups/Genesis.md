@@ -6,16 +6,20 @@ tags:
 - cyber
 ---
 
-## Genesis
+Genesis
+=======
 
-### Origin
+Origin
+------
 United Kingdom
 
-### Description
+Description
+-----------
 British virus writing group, that in the end of 1996 ended up merging with [Immortal Riot](http://vxheaven.org/vx.php?id=gi02) resulting in IR/G [Immortal Riot/Genesis](http://vxheaven.org/vx.php?id=gi05).
 
-### Website
+Website
+-------
 
-
-### Reference
+Reference
+---------
 http://vxheaven.org/vx.php?id=gg00

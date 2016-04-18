@@ -6,16 +6,21 @@ tags:
 - cyber
 ---
 
-## Intergang
+Intergang
+=========
 
-### Origin
+Origin
+------
 Unknown
 
-### Description
+Description
+-----------
 Information on this group is limited. Initially this group only collected viruses and but later started creating them. Activity disappeared after the Melissa clamp down. Their "retirement" announcement can be found at their site.
 
-### Website
+Website
+-------
 None
 
-### Reference
+Reference
+---------
 http://vxheaven.org/vx.php?id=gi03

@@ -6,16 +6,21 @@ tags:
 - cyber
 ---
 
-## Astigmatizm
+Astigmatizm
+===========
 
-### Origin
+Origin
+------
 Philippines
 
-### Description
+Description
+-----------
 A group of computer science (AMAC and Adamson University) students. A few of their limited number of viruses can be found at their site.
 
-### Website
+Website
+-------
 None
 
-### Reference
+Reference
+---------
 http://vxheaven.org/vx.php?id=ga06

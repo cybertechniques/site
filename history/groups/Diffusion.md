@@ -6,16 +6,21 @@ tags:
 - cyber
 ---
 
-## Diffusion
+Diffusion
+=========
 
-### Origin
+Origin
+------
 United Kingdom
 
-### Description
+Description
+-----------
 A new 'group' that emerged at the beginning of 1998. The group is competent in several computer languages. The first family of macro viruses for MS Access 97 was written by Jerk1N. He changed his handle to Ice Breaker following some hassle resulting from the release of his Access virus.
 
-### Website
+Website
+-------
 None
 
-### Reference
+Reference
+---------
 http://vxheaven.org/vx.php?id=gd06

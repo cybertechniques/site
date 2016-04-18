@@ -6,16 +6,21 @@ tags:
 - cyber
 ---
 
-## DVC (Dutch Virii Community)
+DVC (Dutch Virii Community)
+===========================
 
-### Origin
+Origin
+------
 Netherlands
 
-### Description
+Description
+-----------
 Group of relative newcomers (early 1999) that tries to establish itself in the computer virus scene. Limited group activity has been observed. Limited signs of activity can be found at their site.
 
-### Website
+Website
+-------
 None
 
-### Reference
+Reference
+---------
 http://vxheaven.org/vx.php?id=gd09

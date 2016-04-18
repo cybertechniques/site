@@ -6,20 +6,21 @@ tags:
 - cyber
 ---
 
-## Immortal EAS
+Immortal EAS
+============
 
-### Origin
+Origin
+------
 Netherlands
 
-### Description
+Description
+-----------
 Virus authoring group that emerged in the Netherlands. 10 to 15 viruses produced by this group are known. Released a new virus creation tool, [Immortal EAS Virus Creation Centre](http://vxheaven.org/vx.php?id=ti00). Not heard of recently, probably disbanded.
 
-
-### Magazine
+Magazine
+--------
 [Immortal EAS Virus Magazine](http://vxheaven.org/vx.php?id=zi00)
 
-### Website
+Website
+-------
 None
-
-### Reference
-

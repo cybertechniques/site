@@ -6,16 +6,21 @@ tags:
 - cyber
 ---
 
-## Darkness Sons
+Darkness Sons
+=============
 
-### Origin
+Origin
+------
 Italy
 
-### Description
+Description
+-----------
 Group that emerged late 1998, early 1999. They have created some viruses and some simple virus generators (XFVG, AVCC, IPVCK).
 
-### Website
+Website
+-------
 None
 
-### Reference
+Reference
+---------
 http://vxheaven.org/vx.php?id=gd02

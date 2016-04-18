@@ -6,16 +6,21 @@ tags:
 - cyber
 ---
 
-## Australian Institute of Hackers
+Australian Institute of Hackers
+===============================
 
-### Origin
+Origin
+------
 Australia
 
-### Description
+Description
+-----------
 Disbanded virus authoring group responsible for, among other things, the Australian Parasite series and several virus tutorials. Dark Fiber for a while ended up with NuKE and continued as a solo / freelance writer.
 
-### Website
+Website
+-------
 None
 
-### Reference
+Reference
+---------
 http://vxheaven.org/vx.php?id=ga00

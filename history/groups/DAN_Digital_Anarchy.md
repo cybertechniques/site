@@ -6,19 +6,25 @@ tags:
 - cyber
 ---
 
-## DAN (Digital Anarchy)
+DAN (Digital Anarchy)
+=====================
 
-### Origin
+Origin
+------
 Argentina
 
-### Description
+Description
+-----------
 Virus authoring group responsible for around 50 viruses.
 
-### Magazine
+Magazine
+--------
 [Minotauro Magazine](http://vxheaven.org/vx.php?id=zm02)
 
-### Website
+Website
+-------
 None
 
-### Reference
+Reference
+---------
 http://vxheaven.org/vx.php?id=gd00

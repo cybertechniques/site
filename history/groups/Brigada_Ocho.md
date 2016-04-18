@@ -6,19 +6,25 @@ tags:
 - cyber
 ---
 
-## Brigada Ocho
+Brigada Ocho
+============
 
-### Origin
+Origin
+------
 Unknown
 
-### Description
+Description
+-----------
 Known members past and present: alcopaul, arkhangel, energy, secuxp
 
-### Magazine
+Magazine
+--------
 [Brigada Ocho](http://vxheaven.org/vx.php?id=zb02)
 
-### Website
+Website
+-------
 None
 
-### Reference
+Reference
+---------
 http://vxheaven.org/vx.php?id=gb02

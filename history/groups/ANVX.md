@@ -6,16 +6,21 @@ tags:
 - cyber
 ---
 
-## ANVX
+ANVX
+====
 
-### Origin
+Origin
+------
 Unknown
 
-### Description
+Description
+-----------
 Known members: Industry, Retro, DiA, Xyver, s4rin
 
-### Website
+Website
+-------
 None
 
-### Reference
+Reference
+---------
 http://vxheaven.org/vx.php?id=ga09

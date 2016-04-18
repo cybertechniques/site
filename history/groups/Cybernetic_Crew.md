@@ -6,16 +6,21 @@ tags:
 - cyber
 ---
 
-## Cybernetic Crew
+Cybernetic Crew
+===============
 
-### Origin
+Origin
+------
 Austria
 
-### Description
+Description
+-----------
 A group of some new and some well known virus authors. Their exploits cover computer viruses, hacking, cracking and phreaking. They can be found at their site.
 
-### Website
+Website
+-------
 None
 
-### Reference
+Reference
+---------
 http://vxheaven.org/vx.php?id=gc05

@@ -6,16 +6,21 @@ tags:
 - cyber
 ---
 
-## HVM (Hungarian Virus Acade my)
+HVM (Hungarian Virus Acade my)
+==============================
 
-### Origin
+Origin
+------
 Hungary
 
-### Description
+Description
+-----------
 Exact details of this group are unknown. The Typebug.951 virus by Zymotic is known.
 
-### Website
+Website
+-------
 None
 
-### Reference
+Reference
+---------
 http://vxheaven.org/vx.php?id=gh05

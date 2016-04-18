@@ -8,5 +8,6 @@ tags:
 - cyber
 ---
 
-## History - Magazines
 
+History - Magazines
+===================

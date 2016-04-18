@@ -1,4 +1,4 @@
 # Cybertechniques site pages
 
-## See cybertechniques.net for more information
+## See www.cybertechniques.net for more information
 

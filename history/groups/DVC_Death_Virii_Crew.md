@@ -6,19 +6,25 @@ tags:
 - cyber
 ---
 
-## DVC (Death Virii Crew)
+DVC (Death Virii Crew)
+======================
 
-### Origin
+Origin
+------
 Russian Federation
 
-### Description
+Description
+-----------
 This small group originating from the vast Russian country is closely connected to the SG [Stealth Group; former SG World Wide](http://vxheaven.org/vx.php?id=gs01). It is known to have released several viruses and several issues of an E-Zine.
 
-### Magazine
+Magazine
+--------
 [Chaos AD](http://vxheaven.org/vx.php?id=zc01)
 
-### Website
+Website
+-------
 None
 
-### Reference
+Reference
+---------
 http://vxheaven.org/vx.php?id=gd10

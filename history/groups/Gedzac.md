@@ -6,18 +6,23 @@ tags:
 - cyber
 ---
 
-## Gedzac
+Gedzac
+======
 
-### Origin
+Origin
+------
 Unknown
 
-### Description
+Description
+-----------
 
-### Magazine
+Magazine
+--------
 [Mitosis](http://vxheaven.org/vx.php?id=zm08)
 
-### Website
+Website
+-------
 
-
-### Reference
+Reference
+---------
 http://vxheaven.org/vx.php?id=gg01

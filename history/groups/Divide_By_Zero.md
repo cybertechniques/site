@@ -6,18 +6,24 @@ tags:
 - cyber
 ---
 
-## Divide By Zero
+Divide By Zero
+==============
 
-### Origin
+Origin
+------
 Russian Federation
 
-### Description
+Description
+-----------
 
-### Magazine
+Magazine
+--------
 [Divide by Zero Zine](http://vxheaven.org/vx.php?id=zd04)
 
-### Website
+Website
+-------
 None
 
-### Reference
+Reference
+---------
 http://vxheaven.org/vx.php?id=gd08

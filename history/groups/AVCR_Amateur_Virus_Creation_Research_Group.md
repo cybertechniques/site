@@ -1,21 +1,26 @@
 ---
 layout: default
 title: AVCR (Amateur Virus Creation & Research Group)
-permalink: /history/groups/AVCR_Amateur_Virus_Creation_and_Research_Group)/
+permalink: /history/groups/AVCR_Amateur_Virus_Creation_Research_Group/
 tags:
 - cyber
 ---
 
-## AVCR (Amateur Virus Creation & Research Group)
+AVCR (Amateur Virus Creation & Research Group)
+==============================================
 
-### Origin
+Origin
+------
 United States
 
-### Description
+Description
+-----------
 A short lived virus "research" group that recently emerged and disappeared in the USA.
 
-### Website
+Website
+-------
 None
 
-### Reference
+Reference
+---------
 http://vxheaven.org/vx.php?id=ga07

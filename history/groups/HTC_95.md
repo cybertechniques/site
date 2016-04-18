@@ -6,16 +6,21 @@ tags:
 - cyber
 ---
 
-## HTC '95
+HTC '95
+=======
 
-### Origin
+Origin
+------
 United States
 
-### Description
+Description
+-----------
 New group that emerged in 1995. Creators of Virus Lab Creations (VLC). Not heard from recently.
 
-### Website
+Website
+-------
 None
 
-### Reference
+Reference
+---------
 http://vxheaven.org/vx.php?id=gh03

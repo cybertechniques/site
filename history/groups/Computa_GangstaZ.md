@@ -6,19 +6,22 @@ tags:
 - cyber
 ---
 
-## Computa GangstaZ
+Computa GangstaZ
+================
 
-### Origin
+Origin
+------
 International
 
-### Description
+Description
+-----------
 A new group that emerged at the end of 1996 among several other groups. As their name already implies they are not exclusively virus oriented but play around in other areas of the HPAVC scene too.
 
-### Magazine
+Magazine
+--------
 [Da Holocaust Chronical's](http://vxheaven.org/vx.php?id=zd00)
 
-### Website
+Website
+-------
 None
-
-### Reference
 

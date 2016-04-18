@@ -8,4 +8,5 @@ tags:
 - techniques
 ---
 
-# Obfuscation - Instruction Substitution
+Obfuscation - Instruction Substitution
+======================================

@@ -8,4 +8,5 @@ tags:
 - techniques
 ---
 
-# Obfuscation - Subroutine Ordering
+Obfuscation - Subroutine Ordering
+=================================

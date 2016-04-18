@@ -6,16 +6,21 @@ tags:
 - cyber
 ---
 
-## Anarkick Systems
+Anarkick Systems
+================
 
-### Origin
+Origin
+------
 United States
 
-### Description
+Description
+-----------
 Virus authoring group responsible for 15+ viruses.
 
-### Website
+Website
+-------
 None
 
-### Reference
+Reference
+---------
 http://vxheaven.org/vx.php?id=ga04

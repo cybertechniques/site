@@ -6,19 +6,25 @@ tags:
 - cyber
 ---
 
-## CVC (Corean Virus Club, new)
+CVC (Corean Virus Club, new)
+============================
 
-### Origin
+Origin
+------
 Republic Of Korea
 
-### Description
+Description
+-----------
 Group that was created from the remnants of the CVC [Corean Virus Club, old](http://vxheaven.org/vx.php?id=gc03), SVS [Seoul Virus Society](http://vxheaven.org/vx.php?id=gs12) and the recent CVL [Corean Virus Laboratory](http://vxheaven.org/vx.php?id=gc04).
 
-### Magazine
+Magazine
+--------
 [CVC/CVL](http://vxheaven.org/vx.php?id=zc07)
 
-### Website
+Website
+-------
 None
 
-### Reference
+Reference
+---------
 http://vxheaven.org/vx.php?id=gc02

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact Us - CyberTechniques.net
+title: Contact Us
 permalink: /contact-us/
 tags:
 - cybertechniques

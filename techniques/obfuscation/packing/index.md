@@ -8,13 +8,15 @@ tags:
 - techniques
 ---
 
-# Obfuscation - Packing
+Obfuscation - Packing
+=====================
+
+Introduction
+------------
 
 ### What is packing?
 
-
-### Introduction
-A packer compresses the code provided to the packer which in turn makes the
+A packer helps to reduce the physical size of an executable by using a compression technology. A decompression stub is usually then attached, parasitically, to the executable. At runtime, the decompression stub expands the original application and transfers control to the original entry point.
 
 #### Common packers:
 Free
@@ -81,7 +83,7 @@ Free
 
    * PE Diminisher
      * HOME
-       * http://
+       * Not Available
      * DESC
        * PE Diminisher is a simple PE packer. Just run it, open the file you want to pack, and select Encrypt File! This software was written in learning purpose only. Nice GUI.
 

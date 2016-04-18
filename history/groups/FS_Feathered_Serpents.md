@@ -6,19 +6,25 @@ tags:
 - cyber
 ---
 
-## FS (Feathered Serpents)
+FS (Feathered Serpents)
+=======================
 
-### Origin
+Origin
+------
 International
 
-### Description
+Description
+-----------
 This group emerged late 1997 and has several well known figures from other VX groups as members. No group activity has been observed lately.
 
-### Magazine
+Magazine
+--------
 [Natural Selection](http://vxheaven.org/vx.php?id=zn06)
 
-### Website
+Website
+-------
 None
 
-### Reference
+Reference
+---------
 http://vxheaven.org/vx.php?id=gf01

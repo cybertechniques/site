@@ -8,4 +8,5 @@ tags:
 - techniques
 ---
 
-# Obfuscation - Register Reassignment
+Obfuscation - Register Reassignment
+===================================

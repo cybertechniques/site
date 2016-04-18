@@ -7,3 +7,6 @@ tags:
 - windows
 - 32-bit
 ---
+
+Assembly - Windows - 32 bit
+===========================

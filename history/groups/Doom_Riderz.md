@@ -6,19 +6,25 @@ tags:
 - cyber
 ---
 
-## Doom Riderz
+Doom Riderz
+===========
 
-### Origin
+Origin
+------
 Unknown
 
-### Description
+Description
+-----------
 
 
-### Magazine
+Magazine
+--------
 [DoomRiderz](http://vxheaven.org/vx.php?id=gd11)
 
-### Website
+Website
+-------
 None
 
-### Reference
+Reference
+---------
 http://vxheaven.org/vx.php?id=gd11

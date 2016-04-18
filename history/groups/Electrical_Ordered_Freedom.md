@@ -6,9 +6,11 @@ tags:
 - cyber
 ---
 
-## Electrical Ordered Freedom
+Electrical Ordered Freedom
+==========================
 
-### Origin
+Origin
+------
 A note from their site:
 
 EOF stands for Electrical Ordered Freedom and was founded in 2006, we are a team of people interested in virus coding and underground security, our aim is to make a website to provide others with knowledge about those and similar topics and share information.
@@ -17,13 +19,17 @@ This site contains source codes, articles and binaries, which may be able to dam
 
 Known members: SkyOut, RadiatioN, Berniee/Fakedminded, Sk0r/Czybik, Izee, WarGame, Nibble, Psyco_Rabbit
 
-### Description
+Description
+-----------
 
-### Magazine
+Magazine
+--------
 [Electrical Ordered Freedom](http://vxheaven.org/vx.php?id=ze02)
 
-### Website
+Website
+-------
 None
 
-### Reference
+Reference
+---------
 http://vxheaven.org/vx.php?id=ge00

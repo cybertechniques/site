@@ -6,10 +6,12 @@ tags:
 - cybertechniques
 ---
 
-# Obfuscation Techniques
+Obfuscation Techniques
+======================
 
-## What is Obfuscation?
-Obfuscation is the deliverate addition of ambiguous, confuscing, or misleading information to interfere with surveillance and data collection.
+What is Obfuscation?
+-----------------------
+Obfuscation is the deliberate addition of ambiguous, confuscing, or misleading information to interfere with surveillance and data collection.
 The concept of obfuscation is simple but there are many use cases for obfuscation.
 Obfuscation is the production of noise modeled on an existing signal in order to make a collection of data more ambigious, confusing, harder to exploit, more difficult to act on, and therefore less valuable.
 Obfuscation can be compared to a safe. A safe is not invincible. A fire safe is rated in hours. It is vulnerable to the same hazards, the only difference is that it was built specifically to help protect its contents. Obfucation provides the same function. It is also vulnerable, its purpose is to just protect its contents that it was made to protect.

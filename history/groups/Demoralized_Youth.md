@@ -6,16 +6,21 @@ tags:
 - cyber
 ---
 
-## Demoralized Youth
+Demoralized Youth
+=================
 
-### Origin
+Origin
+------
 Sweden
 
-### Description
+Description
+-----------
 Virus authoring group responsible for 25+ viruses.
 
-### Website
+Website
+-------
 None
 
-### Reference
+Reference
+---------
 http://vxheaven.org/vx.php?id=gd04

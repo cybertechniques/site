@@ -6,16 +6,21 @@ tags:
 - cyber
 ---
 
-## 3C Group (Cyber Criminals Clan)
+3C Group (Cyber Criminals Clan)
+===============================
 
-### Origin
+Origin
+------
 Unknown
 
-### Description
+Description
+-----------
 A group that emerged early 1999. Members are new to the scene and produce viruses with an emphasis on macro viruses. The group also explores the hacking scene. The group was renamed to ZeroGravity early 2000.
 
-### Website
+Website
+-------
 None
 
-### Reference
+Reference
+---------
 http://vxheaven.org/vx.php?id=g001

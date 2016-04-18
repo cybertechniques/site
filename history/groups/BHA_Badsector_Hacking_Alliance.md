@@ -6,19 +6,25 @@ tags:
 - cyber
 ---
 
-## BHA (Badsector Hacking Alliance)
+BHA (Badsector Hacking Alliance)
+================================
 
-### Origin
+Origin
+------
 Unknown
 
-### Description
+Description
+-----------
 A hacking group that also has an interest in computer viruses. Apparently changed their name to Badsector Networx early 2000.
 
-### Magazine
+Magazine
+--------
 [Bad Byte](http://vxheaven.org/vx.php?id=zb00)
 
-### Website
+Website
+-------
 None
 
-### Reference
+Reference
+---------
 http://vxheaven.org/vx.php?id=gb00

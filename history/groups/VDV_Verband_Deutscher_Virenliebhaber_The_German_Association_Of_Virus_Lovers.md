@@ -1,7 +1,7 @@
 ---
 layout: default
 title: VDV (Verband Deutscher Virenliebhaber (The German Association of Virus Lovers))
-permalink: /history/groups/VDV_Verband_Deutscher_Virenliebhaber_The_German_Association_of_Virus Lovers/
+permalink: /history/groups/VDV_Verband_Deutscher_Virenliebhaber_The_German_Association_of_Virus_Lovers/
 tags:
 - cyber
 ---

@@ -6,21 +6,21 @@ tags:
 - encryption
 - obfuscation
 - techniques
+- xor
 ---
 
-# Obfuscation - Encryption
+Obfuscation - Encryption
+========================
 
-### What is encryption?
+What is encryption?
+-------------------
+Encryption is used to protect the confidentiality of digital data that is stored on electronic systems or transmitted via electronic means.
 
-
-### Introduction
-In order to take a look at encryption obfuscation techniques we will first look at a simple encryption xor example</br>
+XOR Tutorial
+------------
+We will first look at a simple encryption xor example</br>
 [XOR Encryption Example](http://code.cybertechniques.net/example-techniques-obfuscation-encryption-xor/)
 
-### Common Encrypters
+Common Encrypters
+-----------------
 [Click For List](common_encrypters/)
-
-### Self Encryption
-
-
-#### How to create a self encrypting executable:
